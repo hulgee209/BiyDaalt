@@ -1,0 +1,9 @@
+Capital of France;Paris
+Largest planet;Jupiter
+Fastest land animal;Cheetah
+Square root of 144;12
+Chemical symbol for water;H2O
+Number of continents;7
+Smallest prime number;2
+Currency of Japan;Yen
+Lightest element;Hydrogen
