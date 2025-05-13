@@ -11,6 +11,10 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
+    <name>Flashcard</name>
+    <description>This project is a simple flashcard application for Biy Daalt.</description>
+    <url>https://hulgee209.github.io/BiyDaalt/</url>
+
     <!-- Properties to define Java version and encoding -->
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
